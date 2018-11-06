@@ -1,0 +1,12 @@
+/*this means that the unordered lists should be in blue*/
+ul {
+  color: blue;
+}
+/*this means that all the links you hover over turn red*/
+a:hover{
+  color:red;
+}
+/*this means that when you hover over the links inside the ordered links they turn green*/
+ol a:hover{
+  color:green;
+}
